@@ -30,8 +30,7 @@ This toolkit offers a structured way to assess these risks before deployment, or
 
 ## 🧰 What’s Included
 
-### ✅ Ethics Audit Checklist (MVP)
-* Structured around five pillars:
+### ✅ Ethics Audit Checklist (MVP) Structured around five pillars:
 * Explainability & Transparency
 * Bias & Fairness
 * Clinical Safety
@@ -59,8 +58,10 @@ I designed and authored this toolkit as a standalone portfolio project, building
 
 ## 🛠 Tools & Methods
  **Research & Benchmarking**: NHS AI Lab, ICO Auditing, ISO 14971
+ 
  **Design**: Miro (Stakeholder maps), Figma (UX audit flows)
- **Docs & Sharing**: Notion, Google Docs, Markdown
+
+ **Docs & Sharing**: Notion, Google Docs
 
 
 ## 🙋🏽‍♀️ Let’s Collaborate

@@ -31,12 +31,12 @@ This toolkit offers a structured way to assess these risks before deployment, or
 ## 🧰 What’s Included
 
 ### ✅ Ethics Audit Checklist (MVP)
-Structured around five pillars:
- **Explainability & Transparency**
- **Bias & Fairness**
- **Clinical Safety**
- **User Trust**
- **Regulatory Readiness**
+* Structured around five pillars:
+* Explainability & Transparency
+* Bias & Fairness
+* Clinical Safety
+* User Trust
+* Regulatory Readiness
 
 ### 📄 Stakeholder Review Template
 For collaborative evaluations across PMs, clinicians, and governance leads.
